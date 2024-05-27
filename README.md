@@ -11,7 +11,7 @@ train.csv: This file contains 10,000 comma-separated examples. Each example cons
 eval.csv: This file contains 300 randomly generated x values (ranging from 0 to 10) along with their corresponding target (expected) y values.
 train.ipynb: A Jupyter notebook containing template code for network training.
 evaluate.ipynb: A Jupyter notebook containing code for evaluating the trained network.
-# Network Design and Experimentation
+
 # Network Architecture
 The network architecture consists of one input layer and one output layer. As the target function generates a y value for each x value, the network has one input and one output. To capture the non-linearities of the target function, ReLU activation functions are used for the hidden layers. The output layer has no activation function, ensuring a linear output.
 
