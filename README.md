@@ -1,3 +1,5 @@
+#Neural Network CA
+
 Neural Network Approximation using TensorFlow and Keras
 Introduction
 This repository contains the implementation of a Neural Network using TensorFlow and Keras to approximate a target function. The target function to be approximated is given by:
