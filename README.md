@@ -1,4 +1,4 @@
-#Neural Network CA
+Neural Network CA
 
 Neural Network Approximation using TensorFlow and Keras
 Introduction
